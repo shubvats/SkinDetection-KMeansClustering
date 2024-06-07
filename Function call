@@ -1,0 +1,4 @@
+imageArray = {'ShubhamVatsHand1.jpg', 'ShubhamvatsHand2.jpg'};
+kValues = [2, 3, 5];
+tolerance = 1e-4;
+kmeansfn(imageArray, kValues, tolerance);
