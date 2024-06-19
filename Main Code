@@ -1,4 +1,4 @@
-unction kmeansfn(imageArray, kValues, tolerance)
+Function kmeansfn(imageArray, kValues, tolerance)
 for kIdx = 1:length(kValues)
 numClusters = kValues(kIdx);
 for imageIdx = 1:length(imageArray)
